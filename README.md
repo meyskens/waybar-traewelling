@@ -1,5 +1,6 @@
 # Waybar/i3bar Traewelling status
 
+![screenshot of IC 770 Basel SBB - 43m](./screenshot.png)
 
 This is a small bash script compatible with the waybar/i3bar to display your current train, destination and time remaining from your traewelling.de checkins.
 It is a very hacky state and currently may have bugs and only follows public checkins, yet I wanted to share this to fellow work on train pro-users.
